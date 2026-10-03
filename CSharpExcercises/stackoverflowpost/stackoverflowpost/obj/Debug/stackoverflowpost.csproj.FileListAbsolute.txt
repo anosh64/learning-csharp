@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\excercises\stackoverflowpost\stackoverflowpost\bin\Debug\stackoverflowpost.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\excercises\stackoverflowpost\stackoverflowpost\bin\Debug\stackoverflowpost.exe
+C:\Users\anosh\source\repos\csharpintermediate\excercises\stackoverflowpost\stackoverflowpost\bin\Debug\stackoverflowpost.pdb
+C:\Users\anosh\source\repos\csharpintermediate\excercises\stackoverflowpost\stackoverflowpost\obj\Debug\stackoverflowpost.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\excercises\stackoverflowpost\stackoverflowpost\obj\Debug\stackoverflowpost.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\excercises\stackoverflowpost\stackoverflowpost\obj\Debug\stackoverflowpost.exe
+C:\Users\anosh\source\repos\csharpintermediate\excercises\stackoverflowpost\stackoverflowpost\obj\Debug\stackoverflowpost.pdb

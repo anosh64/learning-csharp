@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\interfacesandpolymorphism\interfacesandpolymorphism\obj\Debug\interfacesandpolymorphism.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\interfacesandpolymorphism\interfacesandpolymorphism\obj\Debug\interfacesandpolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\interfacesandpolymorphism\interfacesandpolymorphism\bin\Debug\interfacesandpolymorphism.exe.config
+C:\Users\anosh\source\repos\interfacesandpolymorphism\interfacesandpolymorphism\bin\Debug\interfacesandpolymorphism.exe
+C:\Users\anosh\source\repos\interfacesandpolymorphism\interfacesandpolymorphism\bin\Debug\interfacesandpolymorphism.pdb
+C:\Users\anosh\source\repos\interfacesandpolymorphism\interfacesandpolymorphism\obj\Debug\interfacesandpolymorphism.exe
+C:\Users\anosh\source\repos\interfacesandpolymorphism\interfacesandpolymorphism\obj\Debug\interfacesandpolymorphism.pdb

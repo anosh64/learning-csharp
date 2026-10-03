@@ -1,0 +1,2 @@
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\Amazon\obj\Debug\Amazon.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache

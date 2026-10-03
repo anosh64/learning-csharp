@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\fields\fields\bin\Debug\fields.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\fields\fields\bin\Debug\fields.exe
+C:\Users\anosh\source\repos\csharpintermediate\fields\fields\bin\Debug\fields.pdb
+C:\Users\anosh\source\repos\csharpintermediate\fields\fields\obj\Debug\fields.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\fields\fields\obj\Debug\fields.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\fields\fields\obj\Debug\fields.exe
+C:\Users\anosh\source\repos\csharpintermediate\fields\fields\obj\Debug\fields.pdb

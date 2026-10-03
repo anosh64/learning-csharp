@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\sortedlistofuniquenumbers\sortedlistofuniquenumbers\bin\Debug\sortedlistofuniquenumbers.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\sortedlistofuniquenumbers\sortedlistofuniquenumbers\bin\Debug\sortedlistofuniquenumbers.exe
+C:\Users\anosh\source\repos\csharp\excercises\sortedlistofuniquenumbers\sortedlistofuniquenumbers\bin\Debug\sortedlistofuniquenumbers.pdb
+C:\Users\anosh\source\repos\csharp\excercises\sortedlistofuniquenumbers\sortedlistofuniquenumbers\obj\Debug\sortedlistofuniquenumbers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\sortedlistofuniquenumbers\sortedlistofuniquenumbers\obj\Debug\sortedlistofuniquenumbers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\sortedlistofuniquenumbers\sortedlistofuniquenumbers\obj\Debug\sortedlistofuniquenumbers.exe
+C:\Users\anosh\source\repos\csharp\excercises\sortedlistofuniquenumbers\sortedlistofuniquenumbers\obj\Debug\sortedlistofuniquenumbers.pdb

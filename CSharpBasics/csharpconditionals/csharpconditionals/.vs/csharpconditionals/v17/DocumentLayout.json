@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharp\\csharpconditionals\\csharpconditionals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221D4CEB-43FB-4B12-A53A-5F356A283772}|csharpconditionals\\csharpconditionals.csproj|c:\\users\\anosh\\source\\repos\\csharp\\csharpconditionals\\csharpconditionals\\csharpconditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221D4CEB-43FB-4B12-A53A-5F356A283772}|csharpconditionals\\csharpconditionals.csproj|solutionrelative:csharpconditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221D4CEB-43FB-4B12-A53A-5F356A283772}|csharpconditionals\\csharpconditionals.csproj|C:\\Users\\anosh\\source\\repos\\csharp\\csharpconditionals\\csharpconditionals\\csharpconditionals\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221D4CEB-43FB-4B12-A53A-5F356A283772}|csharpconditionals\\csharpconditionals.csproj|solutionrelative:csharpconditionals\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Season.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharp\\csharpconditionals\\csharpconditionals\\csharpconditionals\\Season.cs",
+              "RelativeDocumentMoniker": "csharpconditionals\\Season.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharp\\csharpconditionals\\csharpconditionals\\csharpconditionals\\Season.cs",
+              "RelativeToolTip": "csharpconditionals\\Season.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:15:10.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharp\\csharpconditionals\\csharpconditionals\\csharpconditionals\\Program.cs",
+              "RelativeDocumentMoniker": "csharpconditionals\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharp\\csharpconditionals\\csharpconditionals\\csharpconditionals\\Program.cs",
+              "RelativeToolTip": "csharpconditionals\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:13:38.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

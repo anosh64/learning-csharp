@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharp\\summarisingText\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA6A512-5034-4E5C-9ED2-76A651F19A21}|summarisingText\\summarisingText.csproj|c:\\users\\anosh\\source\\repos\\csharp\\summarisingtext\\summarisingtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA6A512-5034-4E5C-9ED2-76A651F19A21}|summarisingText\\summarisingText.csproj|solutionrelative:summarisingtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA6A512-5034-4E5C-9ED2-76A651F19A21}|summarisingText\\summarisingText.csproj|c:\\users\\anosh\\source\\repos\\csharp\\summarisingtext\\summarisingtext\\stringutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA6A512-5034-4E5C-9ED2-76A651F19A21}|summarisingText\\summarisingText.csproj|solutionrelative:summarisingtext\\stringutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stringUtility.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharp\\summarisingText\\summarisingText\\stringUtility.cs",
+              "RelativeDocumentMoniker": "summarisingText\\stringUtility.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharp\\summarisingText\\summarisingText\\stringUtility.cs",
+              "RelativeToolTip": "summarisingText\\stringUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:05:48.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharp\\summarisingText\\summarisingText\\Program.cs",
+              "RelativeDocumentMoniker": "summarisingText\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharp\\summarisingText\\summarisingText\\Program.cs",
+              "RelativeToolTip": "summarisingText\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:39:06.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

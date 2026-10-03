@@ -1,0 +1,14 @@
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\dbstuff\dbstuff\bin\Debug\dbstuff.exe.config
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\dbstuff\dbstuff\bin\Debug\dbstuff.exe
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\dbstuff\dbstuff\bin\Debug\dbstuff.pdb
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\dbstuff\dbstuff\obj\Debug\dbstuff.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\dbstuff\dbstuff\obj\Debug\dbstuff.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\dbstuff\dbstuff\obj\Debug\dbstuff.exe
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\dbstuff\dbstuff\obj\Debug\dbstuff.pdb
+C:\Users\anosh\Documents\GitHub\learning-csharp\CSharpExcercises\database\dbstuff\bin\Debug\dbstuff.exe.config
+C:\Users\anosh\Documents\GitHub\learning-csharp\CSharpExcercises\database\dbstuff\bin\Debug\dbstuff.exe
+C:\Users\anosh\Documents\GitHub\learning-csharp\CSharpExcercises\database\dbstuff\bin\Debug\dbstuff.pdb
+C:\Users\anosh\Documents\GitHub\learning-csharp\CSharpExcercises\database\dbstuff\obj\Debug\dbstuff.csproj.AssemblyReference.cache
+C:\Users\anosh\Documents\GitHub\learning-csharp\CSharpExcercises\database\dbstuff\obj\Debug\dbstuff.csproj.CoreCompileInputs.cache
+C:\Users\anosh\Documents\GitHub\learning-csharp\CSharpExcercises\database\dbstuff\obj\Debug\dbstuff.exe
+C:\Users\anosh\Documents\GitHub\learning-csharp\CSharpExcercises\database\dbstuff\obj\Debug\dbstuff.pdb

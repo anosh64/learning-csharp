@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\extensibility\extensibility\bin\Debug\extensibility.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\extensibility\extensibility\bin\Debug\extensibility.exe
+C:\Users\anosh\source\repos\csharpintermediate\extensibility\extensibility\bin\Debug\extensibility.pdb
+C:\Users\anosh\source\repos\csharpintermediate\extensibility\extensibility\obj\Debug\extensibility.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\extensibility\extensibility\obj\Debug\extensibility.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\extensibility\extensibility\obj\Debug\extensibility.exe
+C:\Users\anosh\source\repos\csharpintermediate\extensibility\extensibility\obj\Debug\extensibility.pdb

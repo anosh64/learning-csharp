@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\methods\methods\bin\Debug\methods.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\methods\methods\bin\Debug\methods.exe
+C:\Users\anosh\source\repos\csharpintermediate\methods\methods\bin\Debug\methods.pdb
+C:\Users\anosh\source\repos\csharpintermediate\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\methods\methods\obj\Debug\methods.exe
+C:\Users\anosh\source\repos\csharpintermediate\methods\methods\obj\Debug\methods.pdb

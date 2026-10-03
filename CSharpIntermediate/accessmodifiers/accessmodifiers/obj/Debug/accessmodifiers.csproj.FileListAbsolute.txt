@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\accessmodifiers\accessmodifiers\bin\Debug\accessmodifiers.exe.config
+C:\Users\anosh\source\repos\accessmodifiers\accessmodifiers\bin\Debug\accessmodifiers.exe
+C:\Users\anosh\source\repos\accessmodifiers\accessmodifiers\bin\Debug\accessmodifiers.pdb
+C:\Users\anosh\source\repos\accessmodifiers\accessmodifiers\obj\Debug\accessmodifiers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\accessmodifiers\accessmodifiers\obj\Debug\accessmodifiers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\accessmodifiers\accessmodifiers\obj\Debug\accessmodifiers.exe
+C:\Users\anosh\source\repos\accessmodifiers\accessmodifiers\obj\Debug\accessmodifiers.pdb

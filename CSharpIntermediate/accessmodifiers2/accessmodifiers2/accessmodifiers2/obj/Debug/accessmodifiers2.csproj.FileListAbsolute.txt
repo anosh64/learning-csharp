@@ -1,0 +1,11 @@
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\bin\Debug\accessmodifiers2.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\bin\Debug\accessmodifiers2.exe
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\bin\Debug\accessmodifiers2.pdb
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.exe
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.pdb
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.exe
+C:\Users\anosh\source\repos\csharpintermediate\accessmodifiers2\accessmodifiers2\accessmodifiers2\obj\Debug\accessmodifiers2.pdb

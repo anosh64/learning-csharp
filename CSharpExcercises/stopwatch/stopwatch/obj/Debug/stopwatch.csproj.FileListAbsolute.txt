@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\anosh\source\repos\csharpintermediate\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\anosh\source\repos\csharpintermediate\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\anosh\source\repos\csharpintermediate\stopwatch\stopwatch\obj\Debug\stopwatch.pdb

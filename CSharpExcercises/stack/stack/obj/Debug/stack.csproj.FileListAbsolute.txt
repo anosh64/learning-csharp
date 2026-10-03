@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\stack\stack\bin\Debug\stack.exe.config
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\stack\stack\bin\Debug\stack.exe
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\stack\stack\bin\Debug\stack.pdb
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\stack\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\stack\stack\obj\Debug\stack.exe
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\stack\stack\obj\Debug\stack.pdb

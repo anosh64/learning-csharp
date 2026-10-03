@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\lists\lists\bin\Debug\lists.exe.config
+C:\Users\anosh\source\repos\csharp\lists\lists\bin\Debug\lists.exe
+C:\Users\anosh\source\repos\csharp\lists\lists\bin\Debug\lists.pdb
+C:\Users\anosh\source\repos\csharp\lists\lists\obj\Debug\lists.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\lists\lists\obj\Debug\lists.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\lists\lists\obj\Debug\lists.exe
+C:\Users\anosh\source\repos\csharp\lists\lists\obj\Debug\lists.pdb

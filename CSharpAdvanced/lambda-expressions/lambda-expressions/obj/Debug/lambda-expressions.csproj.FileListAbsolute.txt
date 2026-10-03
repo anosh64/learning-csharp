@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpadvanced\lambda-expressions\lambda-expressions\bin\Debug\lambda-expressions.exe.config
+C:\Users\anosh\source\repos\csharpadvanced\lambda-expressions\lambda-expressions\bin\Debug\lambda-expressions.exe
+C:\Users\anosh\source\repos\csharpadvanced\lambda-expressions\lambda-expressions\bin\Debug\lambda-expressions.pdb
+C:\Users\anosh\source\repos\csharpadvanced\lambda-expressions\lambda-expressions\obj\Debug\lambda-expressions.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpadvanced\lambda-expressions\lambda-expressions\obj\Debug\lambda-expressions.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpadvanced\lambda-expressions\lambda-expressions\obj\Debug\lambda-expressions.exe
+C:\Users\anosh\source\repos\csharpadvanced\lambda-expressions\lambda-expressions\obj\Debug\lambda-expressions.pdb

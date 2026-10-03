@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\excercises\myStack\myStack\bin\Debug\myStack.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\excercises\myStack\myStack\bin\Debug\myStack.exe
+C:\Users\anosh\source\repos\csharpintermediate\excercises\myStack\myStack\bin\Debug\myStack.pdb
+C:\Users\anosh\source\repos\csharpintermediate\excercises\myStack\myStack\obj\Debug\myStack.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\excercises\myStack\myStack\obj\Debug\myStack.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\excercises\myStack\myStack\obj\Debug\myStack.exe
+C:\Users\anosh\source\repos\csharpintermediate\excercises\myStack\myStack\obj\Debug\myStack.pdb

@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\consecutiveNumbers\consecutiveNumbers\bin\Debug\consecutiveNumbers.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\consecutiveNumbers\consecutiveNumbers\bin\Debug\consecutiveNumbers.exe
+C:\Users\anosh\source\repos\csharp\excercises\consecutiveNumbers\consecutiveNumbers\bin\Debug\consecutiveNumbers.pdb
+C:\Users\anosh\source\repos\csharp\excercises\consecutiveNumbers\consecutiveNumbers\obj\Debug\consecutiveNumbers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\consecutiveNumbers\consecutiveNumbers\obj\Debug\consecutiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\consecutiveNumbers\consecutiveNumbers\obj\Debug\consecutiveNumbers.exe
+C:\Users\anosh\source\repos\csharp\excercises\consecutiveNumbers\consecutiveNumbers\obj\Debug\consecutiveNumbers.pdb

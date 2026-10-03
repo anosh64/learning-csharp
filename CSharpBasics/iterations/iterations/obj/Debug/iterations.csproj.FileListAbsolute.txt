@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\iterations\iterations\obj\Debug\iterations.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\iterations\iterations\obj\Debug\iterations.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\iterations\iterations\bin\Debug\iterations.exe.config
+C:\Users\anosh\source\repos\csharp\iterations\iterations\bin\Debug\iterations.exe
+C:\Users\anosh\source\repos\csharp\iterations\iterations\bin\Debug\iterations.pdb
+C:\Users\anosh\source\repos\csharp\iterations\iterations\obj\Debug\iterations.exe
+C:\Users\anosh\source\repos\csharp\iterations\iterations\obj\Debug\iterations.pdb

@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\landscapeorportrait\landscapeorportrait\obj\Debug\landscapeorportrait.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\landscapeorportrait\landscapeorportrait\obj\Debug\landscapeorportrait.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\landscapeorportrait\landscapeorportrait\bin\Debug\landscapeorportrait.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\landscapeorportrait\landscapeorportrait\bin\Debug\landscapeorportrait.exe
+C:\Users\anosh\source\repos\csharp\excercises\landscapeorportrait\landscapeorportrait\bin\Debug\landscapeorportrait.pdb
+C:\Users\anosh\source\repos\csharp\excercises\landscapeorportrait\landscapeorportrait\obj\Debug\landscapeorportrait.exe
+C:\Users\anosh\source\repos\csharp\excercises\landscapeorportrait\landscapeorportrait\obj\Debug\landscapeorportrait.pdb

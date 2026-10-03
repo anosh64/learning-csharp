@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\ccnstructorsAndInheritance\ccnstructorsAndInheritance\bin\Debug\ccnstructorsAndInheritance.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\ccnstructorsAndInheritance\ccnstructorsAndInheritance\bin\Debug\ccnstructorsAndInheritance.exe
+C:\Users\anosh\source\repos\csharpintermediate\ccnstructorsAndInheritance\ccnstructorsAndInheritance\bin\Debug\ccnstructorsAndInheritance.pdb
+C:\Users\anosh\source\repos\csharpintermediate\ccnstructorsAndInheritance\ccnstructorsAndInheritance\obj\Debug\ccnstructorsAndInheritance.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\ccnstructorsAndInheritance\ccnstructorsAndInheritance\obj\Debug\ccnstructorsAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\ccnstructorsAndInheritance\ccnstructorsAndInheritance\obj\Debug\ccnstructorsAndInheritance.exe
+C:\Users\anosh\source\repos\csharpintermediate\ccnstructorsAndInheritance\ccnstructorsAndInheritance\obj\Debug\ccnstructorsAndInheritance.pdb

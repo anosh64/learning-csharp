@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\stringBuilder\stringBuilder\bin\Debug\stringBuilder.exe.config
+C:\Users\anosh\source\repos\csharp\stringBuilder\stringBuilder\bin\Debug\stringBuilder.exe
+C:\Users\anosh\source\repos\csharp\stringBuilder\stringBuilder\bin\Debug\stringBuilder.pdb
+C:\Users\anosh\source\repos\csharp\stringBuilder\stringBuilder\obj\Debug\stringBuilder.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\stringBuilder\stringBuilder\obj\Debug\stringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\stringBuilder\stringBuilder\obj\Debug\stringBuilder.exe
+C:\Users\anosh\source\repos\csharp\stringBuilder\stringBuilder\obj\Debug\stringBuilder.pdb

@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\factorialcalc\factorialcalc\bin\Debug\factorialcalc.exe.config
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\factorialcalc\factorialcalc\bin\Debug\factorialcalc.exe
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\factorialcalc\factorialcalc\bin\Debug\factorialcalc.pdb
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\factorialcalc\factorialcalc\obj\Debug\factorialcalc.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\factorialcalc\factorialcalc\obj\Debug\factorialcalc.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\factorialcalc\factorialcalc\obj\Debug\factorialcalc.exe
+C:\Users\anosh\source\repos\chsarpexcercisesnowLOCKtheheckIN\factorialcalc\factorialcalc\obj\Debug\factorialcalc.pdb

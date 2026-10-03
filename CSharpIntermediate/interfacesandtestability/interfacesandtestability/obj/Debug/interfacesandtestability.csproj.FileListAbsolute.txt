@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\interfacesandtestability\interfacesandtestability\obj\Debug\interfacesandtestability.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\interfacesandtestability\interfacesandtestability\obj\Debug\interfacesandtestability.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\interfacesandtestability\interfacesandtestability\bin\Debug\interfacesandtestability.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\interfacesandtestability\interfacesandtestability\bin\Debug\interfacesandtestability.exe
+C:\Users\anosh\source\repos\csharpintermediate\interfacesandtestability\interfacesandtestability\bin\Debug\interfacesandtestability.pdb
+C:\Users\anosh\source\repos\csharpintermediate\interfacesandtestability\interfacesandtestability\obj\Debug\interfacesandtestability.exe
+C:\Users\anosh\source\repos\csharpintermediate\interfacesandtestability\interfacesandtestability\obj\Debug\interfacesandtestability.pdb

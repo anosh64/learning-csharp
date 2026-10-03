@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|c:\\users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|solutionrelative:eventsanddelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|c:\\users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|solutionrelative:eventsanddelegates\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|c:\\users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|solutionrelative:eventsanddelegates\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|c:\\users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|solutionrelative:eventsanddelegates\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|c:\\users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212155BA-4137-4C66-93F2-C37B7CBCEF96}|eventsanddelegates\\eventsanddelegates.csproj|solutionrelative:eventsanddelegates\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\Video.cs",
+              "RelativeDocumentMoniker": "eventsanddelegates\\Video.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\Video.cs",
+              "RelativeToolTip": "eventsanddelegates\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:52:31.755Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\MessageService.cs",
+              "RelativeDocumentMoniker": "eventsanddelegates\\MessageService.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\MessageService.cs",
+              "RelativeToolTip": "eventsanddelegates\\MessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:07:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoEncoder.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\VideoEncoder.cs",
+              "RelativeDocumentMoniker": "eventsanddelegates\\VideoEncoder.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\VideoEncoder.cs",
+              "RelativeToolTip": "eventsanddelegates\\VideoEncoder.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:52:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\MailService.cs",
+              "RelativeDocumentMoniker": "eventsanddelegates\\MailService.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\MailService.cs",
+              "RelativeToolTip": "eventsanddelegates\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:58:32.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\Program.cs",
+              "RelativeDocumentMoniker": "eventsanddelegates\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\eventsanddelegates\\eventsanddelegates\\Program.cs",
+              "RelativeToolTip": "eventsanddelegates\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:44:36.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

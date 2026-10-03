@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\constructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91C42EE6-CCE0-443B-B4EB-AF8C5403F336}|constructors\\constructors.csproj|c:\\users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C42EE6-CCE0-443B-B4EB-AF8C5403F336}|constructors\\constructors.csproj|solutionrelative:constructors\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C42EE6-CCE0-443B-B4EB-AF8C5403F336}|constructors\\constructors.csproj|c:\\users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C42EE6-CCE0-443B-B4EB-AF8C5403F336}|constructors\\constructors.csproj|solutionrelative:constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C42EE6-CCE0-443B-B4EB-AF8C5403F336}|constructors\\constructors.csproj|c:\\users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C42EE6-CCE0-443B-B4EB-AF8C5403F336}|constructors\\constructors.csproj|solutionrelative:constructors\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\Order.cs",
+              "RelativeDocumentMoniker": "constructors\\Order.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\Order.cs",
+              "RelativeToolTip": "constructors\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:27:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\Customer.cs",
+              "RelativeDocumentMoniker": "constructors\\Customer.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\Customer.cs",
+              "RelativeToolTip": "constructors\\Customer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:12:51.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\Program.cs",
+              "RelativeDocumentMoniker": "constructors\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\constructors\\constructors\\Program.cs",
+              "RelativeToolTip": "constructors\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:22:32.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

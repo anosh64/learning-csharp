@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\MaximumOfTwoNumbers\MaximumOfTwoNumbers\bin\Debug\MaximumOfTwoNumbers.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\MaximumOfTwoNumbers\MaximumOfTwoNumbers\bin\Debug\MaximumOfTwoNumbers.exe
+C:\Users\anosh\source\repos\csharp\excercises\MaximumOfTwoNumbers\MaximumOfTwoNumbers\bin\Debug\MaximumOfTwoNumbers.pdb
+C:\Users\anosh\source\repos\csharp\excercises\MaximumOfTwoNumbers\MaximumOfTwoNumbers\obj\Debug\MaximumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\MaximumOfTwoNumbers\MaximumOfTwoNumbers\obj\Debug\MaximumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\MaximumOfTwoNumbers\MaximumOfTwoNumbers\obj\Debug\MaximumOfTwoNumbers.exe
+C:\Users\anosh\source\repos\csharp\excercises\MaximumOfTwoNumbers\MaximumOfTwoNumbers\obj\Debug\MaximumOfTwoNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\debuuging\debuuging\obj\Debug\debuuging.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\debuuging\debuuging\obj\Debug\debuuging.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\debuuging\debuuging\bin\Debug\debuuging.exe.config
+C:\Users\anosh\source\repos\csharp\debuuging\debuuging\bin\Debug\debuuging.exe
+C:\Users\anosh\source\repos\csharp\debuuging\debuuging\bin\Debug\debuuging.pdb
+C:\Users\anosh\source\repos\csharp\debuuging\debuuging\obj\Debug\debuuging.exe
+C:\Users\anosh\source\repos\csharp\debuuging\debuuging\obj\Debug\debuuging.pdb

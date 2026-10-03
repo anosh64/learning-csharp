@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\randomclass\randomclass\bin\Debug\randomclass.exe.config
+C:\Users\anosh\source\repos\csharp\randomclass\randomclass\bin\Debug\randomclass.exe
+C:\Users\anosh\source\repos\csharp\randomclass\randomclass\bin\Debug\randomclass.pdb
+C:\Users\anosh\source\repos\csharp\randomclass\randomclass\obj\Debug\randomclass.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\randomclass\randomclass\obj\Debug\randomclass.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\randomclass\randomclass\obj\Debug\randomclass.exe
+C:\Users\anosh\source\repos\csharp\randomclass\randomclass\obj\Debug\randomclass.pdb

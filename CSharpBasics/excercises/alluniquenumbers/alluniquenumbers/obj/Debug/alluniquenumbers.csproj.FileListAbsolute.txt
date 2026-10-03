@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\alluniquenumbers\alluniquenumbers\bin\Debug\alluniquenumbers.exe.config
+C:\Users\anosh\source\repos\alluniquenumbers\alluniquenumbers\bin\Debug\alluniquenumbers.exe
+C:\Users\anosh\source\repos\alluniquenumbers\alluniquenumbers\bin\Debug\alluniquenumbers.pdb
+C:\Users\anosh\source\repos\alluniquenumbers\alluniquenumbers\obj\Debug\alluniquenumbers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\alluniquenumbers\alluniquenumbers\obj\Debug\alluniquenumbers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\alluniquenumbers\alluniquenumbers\obj\Debug\alluniquenumbers.exe
+C:\Users\anosh\source\repos\alluniquenumbers\alluniquenumbers\obj\Debug\alluniquenumbers.pdb

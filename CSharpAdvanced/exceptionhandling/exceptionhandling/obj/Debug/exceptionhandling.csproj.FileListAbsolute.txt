@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe.config
+C:\Users\anosh\source\repos\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe
+C:\Users\anosh\source\repos\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.pdb
+C:\Users\anosh\source\repos\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.exe
+C:\Users\anosh\source\repos\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.pdb

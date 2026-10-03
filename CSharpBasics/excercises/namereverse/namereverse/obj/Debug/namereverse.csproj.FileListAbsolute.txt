@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\namereverse\namereverse\bin\Debug\namereverse.exe.config
+C:\Users\anosh\source\repos\namereverse\namereverse\bin\Debug\namereverse.exe
+C:\Users\anosh\source\repos\namereverse\namereverse\bin\Debug\namereverse.pdb
+C:\Users\anosh\source\repos\namereverse\namereverse\obj\Debug\namereverse.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\namereverse\namereverse\obj\Debug\namereverse.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\namereverse\namereverse\obj\Debug\namereverse.exe
+C:\Users\anosh\source\repos\namereverse\namereverse\obj\Debug\namereverse.pdb

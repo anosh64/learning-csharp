@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\3smallestnums\3smallestnums\bin\Debug\3smallestnums.exe.config
+C:\Users\anosh\source\repos\3smallestnums\3smallestnums\bin\Debug\3smallestnums.exe
+C:\Users\anosh\source\repos\3smallestnums\3smallestnums\bin\Debug\3smallestnums.pdb
+C:\Users\anosh\source\repos\3smallestnums\3smallestnums\obj\Debug\3smallestnums.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\3smallestnums\3smallestnums\obj\Debug\3smallestnums.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\3smallestnums\3smallestnums\obj\Debug\3smallestnums.exe
+C:\Users\anosh\source\repos\3smallestnums\3smallestnums\obj\Debug\3smallestnums.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consecutiveNumbers", "consecutiveNumbers\consecutiveNumbers.csproj", "{AFBAFE58-BB89-4425-8573-BCB0E0A13A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBAFE58-BB89-4425-8573-BCB0E0A13A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBAFE58-BB89-4425-8573-BCB0E0A13A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBAFE58-BB89-4425-8573-BCB0E0A13A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBAFE58-BB89-4425-8573-BCB0E0A13A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C548084-F1FD-4D06-B82E-A7F15D904C3B}
+	EndGlobalSection
+EndGlobal

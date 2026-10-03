@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\duplicatechecker\duplicatechecker\bin\Debug\duplicatechecker.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\duplicatechecker\duplicatechecker\bin\Debug\duplicatechecker.exe
+C:\Users\anosh\source\repos\csharp\excercises\duplicatechecker\duplicatechecker\bin\Debug\duplicatechecker.pdb
+C:\Users\anosh\source\repos\csharp\excercises\duplicatechecker\duplicatechecker\obj\Debug\duplicatechecker.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\duplicatechecker\duplicatechecker\obj\Debug\duplicatechecker.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\duplicatechecker\duplicatechecker\obj\Debug\duplicatechecker.exe
+C:\Users\anosh\source\repos\csharp\excercises\duplicatechecker\duplicatechecker\obj\Debug\duplicatechecker.pdb

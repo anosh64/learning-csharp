@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\linqstuff\linqstuff\bin\Debug\linqstuff.exe.config
+C:\Users\anosh\source\repos\linqstuff\linqstuff\bin\Debug\linqstuff.exe
+C:\Users\anosh\source\repos\linqstuff\linqstuff\bin\Debug\linqstuff.pdb
+C:\Users\anosh\source\repos\linqstuff\linqstuff\obj\Debug\linqstuff.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\linqstuff\linqstuff\obj\Debug\linqstuff.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\linqstuff\linqstuff\obj\Debug\linqstuff.exe
+C:\Users\anosh\source\repos\linqstuff\linqstuff\obj\Debug\linqstuff.pdb

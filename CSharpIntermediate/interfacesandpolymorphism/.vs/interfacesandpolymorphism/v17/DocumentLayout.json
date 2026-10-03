@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|c:\\users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\smsnotifchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\smsnotifchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\mailnotifchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\mailnotifchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE57D0F7-28B1-4DE4-950A-2B6C85476742}|interfacesandpolymorphism\\interfacesandpolymorphism.csproj|solutionrelative:interfacesandpolymorphism\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmsNotifChannel.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\SmsNotifChannel.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\SmsNotifChannel.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\SmsNotifChannel.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\SmsNotifChannel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:27:12.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MailNotifChannel.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\MailNotifChannel.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\MailNotifChannel.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\MailNotifChannel.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\MailNotifChannel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:26:11.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Message.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\Message.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Message.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:24:54.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotificationChannel.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\INotificationChannel.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\INotificationChannel.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\INotificationChannel.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\INotificationChannel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:24:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Mail.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\Mail.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Mail.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\Mail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:18:01.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\MailService.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\MailService.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\MailService.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:17:46.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Video.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\Video.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Video.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:17:13.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoEncoder.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\VideoEncoder.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\VideoEncoder.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\VideoEncoder.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\VideoEncoder.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:16:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "interfacesandpolymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\interfacesandpolymorphism\\interfacesandpolymorphism\\Program.cs",
+              "RelativeToolTip": "interfacesandpolymorphism\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:14:16.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\fileAndFileInfo\fileAndFileInfo\bin\Debug\fileAndFileInfo.exe.config
+C:\Users\anosh\source\repos\fileAndFileInfo\fileAndFileInfo\bin\Debug\fileAndFileInfo.exe
+C:\Users\anosh\source\repos\fileAndFileInfo\fileAndFileInfo\bin\Debug\fileAndFileInfo.pdb
+C:\Users\anosh\source\repos\fileAndFileInfo\fileAndFileInfo\obj\Debug\fileAndFileInfo.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\fileAndFileInfo\fileAndFileInfo\obj\Debug\fileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\fileAndFileInfo\fileAndFileInfo\obj\Debug\fileAndFileInfo.exe
+C:\Users\anosh\source\repos\fileAndFileInfo\fileAndFileInfo\obj\Debug\fileAndFileInfo.pdb

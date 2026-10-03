@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\boxingandunboxing\boxingandunboxing\bin\Debug\boxingandunboxing.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\boxingandunboxing\boxingandunboxing\bin\Debug\boxingandunboxing.exe
+C:\Users\anosh\source\repos\csharpintermediate\boxingandunboxing\boxingandunboxing\bin\Debug\boxingandunboxing.pdb
+C:\Users\anosh\source\repos\csharpintermediate\boxingandunboxing\boxingandunboxing\obj\Debug\boxingandunboxing.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\boxingandunboxing\boxingandunboxing\obj\Debug\boxingandunboxing.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\boxingandunboxing\boxingandunboxing\obj\Debug\boxingandunboxing.exe
+C:\Users\anosh\source\repos\csharpintermediate\boxingandunboxing\boxingandunboxing\obj\Debug\boxingandunboxing.pdb

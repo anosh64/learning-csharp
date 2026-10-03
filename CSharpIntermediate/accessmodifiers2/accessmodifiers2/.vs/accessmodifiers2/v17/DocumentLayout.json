@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C15B0273-FEC5-440E-B61C-A2BC7EA768D7}|Amazon\\Amazon.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\amazon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15B0273-FEC5-440E-B61C-A2BC7EA768D7}|Amazon\\Amazon.csproj|solutionrelative:amazon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6CB32D-22AA-40DE-934A-670CC7BE3D57}|accessmodifiers2\\accessmodifiers2.csproj|c:\\users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\accessmodifiers2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6CB32D-22AA-40DE-934A-670CC7BE3D57}|accessmodifiers2\\accessmodifiers2.csproj|solutionrelative:accessmodifiers2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15B0273-FEC5-440E-B61C-A2BC7EA768D7}|Amazon\\Amazon.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\amazon\\ratecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15B0273-FEC5-440E-B61C-A2BC7EA768D7}|Amazon\\Amazon.csproj|solutionrelative:amazon\\ratecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RateCalc.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\Amazon\\RateCalc.cs",
+              "RelativeDocumentMoniker": "Amazon\\RateCalc.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\Amazon\\RateCalc.cs",
+              "RelativeToolTip": "Amazon\\RateCalc.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:51:27.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\Amazon\\Program.cs",
+              "RelativeDocumentMoniker": "Amazon\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\Amazon\\Program.cs",
+              "RelativeToolTip": "Amazon\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:47:23.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\accessmodifiers2\\Program.cs",
+              "RelativeDocumentMoniker": "accessmodifiers2\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\accessmodifiers2\\accessmodifiers2\\accessmodifiers2\\Program.cs",
+              "RelativeToolTip": "accessmodifiers2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:17:35.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

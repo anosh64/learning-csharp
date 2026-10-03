@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\csharpconditionals\csharpconditionals\csharpconditionals\obj\Debug\csharpconditionals.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\csharpconditionals\csharpconditionals\csharpconditionals\obj\Debug\csharpconditionals.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\csharpconditionals\csharpconditionals\csharpconditionals\bin\Debug\csharpconditionals.exe.config
+C:\Users\anosh\source\repos\csharp\csharpconditionals\csharpconditionals\csharpconditionals\bin\Debug\csharpconditionals.exe
+C:\Users\anosh\source\repos\csharp\csharpconditionals\csharpconditionals\csharpconditionals\bin\Debug\csharpconditionals.pdb
+C:\Users\anosh\source\repos\csharp\csharpconditionals\csharpconditionals\csharpconditionals\obj\Debug\csharpconditionals.exe
+C:\Users\anosh\source\repos\csharp\csharpconditionals\csharpconditionals\csharpconditionals\obj\Debug\csharpconditionals.pdb

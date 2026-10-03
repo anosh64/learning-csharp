@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\timespam\timespam\bin\Debug\timespam.exe.config
+C:\Users\anosh\source\repos\csharp\timespam\timespam\bin\Debug\timespam.exe
+C:\Users\anosh\source\repos\csharp\timespam\timespam\bin\Debug\timespam.pdb
+C:\Users\anosh\source\repos\csharp\timespam\timespam\obj\Debug\timespam.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\timespam\timespam\obj\Debug\timespam.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\timespam\timespam\obj\Debug\timespam.exe
+C:\Users\anosh\source\repos\csharp\timespam\timespam\obj\Debug\timespam.pdb

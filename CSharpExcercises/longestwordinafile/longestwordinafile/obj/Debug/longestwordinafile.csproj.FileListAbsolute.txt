@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\longestwordinafile\longestwordinafile\bin\Debug\longestwordinafile.exe.config
+C:\Users\anosh\source\repos\longestwordinafile\longestwordinafile\bin\Debug\longestwordinafile.exe
+C:\Users\anosh\source\repos\longestwordinafile\longestwordinafile\bin\Debug\longestwordinafile.pdb
+C:\Users\anosh\source\repos\longestwordinafile\longestwordinafile\obj\Debug\longestwordinafile.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\longestwordinafile\longestwordinafile\obj\Debug\longestwordinafile.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\longestwordinafile\longestwordinafile\obj\Debug\longestwordinafile.exe
+C:\Users\anosh\source\repos\longestwordinafile\longestwordinafile\obj\Debug\longestwordinafile.pdb

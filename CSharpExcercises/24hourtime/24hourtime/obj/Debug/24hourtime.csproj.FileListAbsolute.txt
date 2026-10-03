@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\24hourtime\24hourtime\bin\Debug\24hourtime.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\24hourtime\24hourtime\bin\Debug\24hourtime.exe
+C:\Users\anosh\source\repos\csharp\excercises\24hourtime\24hourtime\bin\Debug\24hourtime.pdb
+C:\Users\anosh\source\repos\csharp\excercises\24hourtime\24hourtime\obj\Debug\24hourtime.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\24hourtime\24hourtime\obj\Debug\24hourtime.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\24hourtime\24hourtime\obj\Debug\24hourtime.exe
+C:\Users\anosh\source\repos\csharp\excercises\24hourtime\24hourtime\obj\Debug\24hourtime.pdb

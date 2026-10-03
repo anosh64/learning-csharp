@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|solutionrelative:interfacesandtestability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|solutionrelative:interfacesandtestability\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|solutionrelative:interfacesandtestability\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C727179-8938-4015-9C59-ADA16429F853}|interfacesandtesting.UnitTests\\interfacesandtesting.UnitTests.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtesting.unittests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C727179-8938-4015-9C59-ADA16429F853}|interfacesandtesting.UnitTests\\interfacesandtesting.UnitTests.csproj|solutionrelative:interfacesandtesting.unittests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|solutionrelative:interfacesandtestability\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|c:\\users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB54244-028A-4913-B2CB-5A7E5E4185F1}|interfacesandtestability\\interfacesandtestability.csproj|solutionrelative:interfacesandtestability\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtesting.UnitTests\\OrderProcessorTests.cs",
+              "RelativeDocumentMoniker": "interfacesandtesting.UnitTests\\OrderProcessorTests.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtesting.UnitTests\\OrderProcessorTests.cs",
+              "RelativeToolTip": "interfacesandtesting.UnitTests\\OrderProcessorTests.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvyoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:05:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\Shipment.cs",
+              "RelativeDocumentMoniker": "interfacesandtestability\\Shipment.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\Shipment.cs",
+              "RelativeToolTip": "interfacesandtestability\\Shipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:45:55.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\Order.cs",
+              "RelativeDocumentMoniker": "interfacesandtestability\\Order.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\Order.cs",
+              "RelativeToolTip": "interfacesandtestability\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:26:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShippingCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\ShippingCalculator.cs",
+              "RelativeDocumentMoniker": "interfacesandtestability\\ShippingCalculator.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\ShippingCalculator.cs",
+              "RelativeToolTip": "interfacesandtestability\\ShippingCalculator.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:23:31.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "interfacesandtestability\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\OrderProcessor.cs",
+              "RelativeToolTip": "interfacesandtestability\\OrderProcessor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:15:51.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\Program.cs",
+              "RelativeDocumentMoniker": "interfacesandtestability\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\interfacesandtestability\\interfacesandtestability\\Program.cs",
+              "RelativeToolTip": "interfacesandtestability\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:59:40.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

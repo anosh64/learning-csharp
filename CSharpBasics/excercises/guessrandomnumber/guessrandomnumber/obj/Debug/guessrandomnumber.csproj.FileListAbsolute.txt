@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\guessrandomnumber\guessrandomnumber\bin\Debug\guessrandomnumber.exe.config
+C:\Users\anosh\source\repos\guessrandomnumber\guessrandomnumber\bin\Debug\guessrandomnumber.exe
+C:\Users\anosh\source\repos\guessrandomnumber\guessrandomnumber\bin\Debug\guessrandomnumber.pdb
+C:\Users\anosh\source\repos\guessrandomnumber\guessrandomnumber\obj\Debug\guessrandomnumber.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\guessrandomnumber\guessrandomnumber\obj\Debug\guessrandomnumber.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\guessrandomnumber\guessrandomnumber\obj\Debug\guessrandomnumber.exe
+C:\Users\anosh\source\repos\guessrandomnumber\guessrandomnumber\obj\Debug\guessrandomnumber.pdb

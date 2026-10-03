@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB666AD-B7A7-463A-A7CA-D25F1B362B1A}|methods\\methods.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB666AD-B7A7-463A-A7CA-D25F1B362B1A}|methods\\methods.csproj|solutionrelative:methods\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB666AD-B7A7-463A-A7CA-D25F1B362B1A}|methods\\methods.csproj|c:\\users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB666AD-B7A7-463A-A7CA-D25F1B362B1A}|methods\\methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB666AD-B7A7-463A-A7CA-D25F1B362B1A}|methods\\methods.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB666AD-B7A7-463A-A7CA-D25F1B362B1A}|methods\\methods.csproj|solutionrelative:methods\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\Calculator.cs",
+              "RelativeDocumentMoniker": "methods\\Calculator.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\Calculator.cs",
+              "RelativeToolTip": "methods\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:11:07.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\Point.cs",
+              "RelativeDocumentMoniker": "methods\\Point.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\Point.cs",
+              "RelativeToolTip": "methods\\Point.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:56:37.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\Program.cs",
+              "RelativeDocumentMoniker": "methods\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\methods\\methods\\Program.cs",
+              "RelativeToolTip": "methods\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:42:02.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

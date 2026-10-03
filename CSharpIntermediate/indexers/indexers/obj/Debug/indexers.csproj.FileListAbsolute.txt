@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\indexers\indexers\bin\Debug\indexers.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\indexers\indexers\bin\Debug\indexers.exe
+C:\Users\anosh\source\repos\csharpintermediate\indexers\indexers\bin\Debug\indexers.pdb
+C:\Users\anosh\source\repos\csharpintermediate\indexers\indexers\obj\Debug\indexers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\indexers\indexers\obj\Debug\indexers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\indexers\indexers\obj\Debug\indexers.exe
+C:\Users\anosh\source\repos\csharpintermediate\indexers\indexers\obj\Debug\indexers.pdb

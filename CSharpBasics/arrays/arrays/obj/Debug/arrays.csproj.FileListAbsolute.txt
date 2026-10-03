@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\anosh\source\repos\csharp\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\anosh\source\repos\csharp\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\anosh\source\repos\csharp\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\anosh\source\repos\csharp\arrays\arrays\obj\Debug\arrays.pdb

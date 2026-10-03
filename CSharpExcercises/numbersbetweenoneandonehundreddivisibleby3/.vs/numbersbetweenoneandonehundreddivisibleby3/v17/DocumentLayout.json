@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\chsarpexcercisesnowLOCKtheheckIN\\numbersbetweenoneandonehundreddivisibleby3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A76F171E-F3D5-4D89-9E4D-9ED23C0942D1}|numbersbetweenoneandonehundreddivisibleby3\\numbersbetweenoneandonehundreddivisibleby3.csproj|c:\\users\\anosh\\source\\repos\\chsarpexcercisesnowlocktheheckin\\numbersbetweenoneandonehundreddivisibleby3\\numbersbetweenoneandonehundreddivisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76F171E-F3D5-4D89-9E4D-9ED23C0942D1}|numbersbetweenoneandonehundreddivisibleby3\\numbersbetweenoneandonehundreddivisibleby3.csproj|solutionrelative:numbersbetweenoneandonehundreddivisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\chsarpexcercisesnowLOCKtheheckIN\\numbersbetweenoneandonehundreddivisibleby3\\numbersbetweenoneandonehundreddivisibleby3\\Program.cs",
+              "RelativeDocumentMoniker": "numbersbetweenoneandonehundreddivisibleby3\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\chsarpexcercisesnowLOCKtheheckIN\\numbersbetweenoneandonehundreddivisibleby3\\numbersbetweenoneandonehundreddivisibleby3\\Program.cs",
+              "RelativeToolTip": "numbersbetweenoneandonehundreddivisibleby3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:43:42.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

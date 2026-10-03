@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\abstractClassesAndMembers\abstractClassesAndMembers\bin\Debug\abstractClassesAndMembers.exe.config
+C:\Users\anosh\source\repos\abstractClassesAndMembers\abstractClassesAndMembers\bin\Debug\abstractClassesAndMembers.exe
+C:\Users\anosh\source\repos\abstractClassesAndMembers\abstractClassesAndMembers\bin\Debug\abstractClassesAndMembers.pdb
+C:\Users\anosh\source\repos\abstractClassesAndMembers\abstractClassesAndMembers\obj\Debug\abstractClassesAndMembers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\abstractClassesAndMembers\abstractClassesAndMembers\obj\Debug\abstractClassesAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\abstractClassesAndMembers\abstractClassesAndMembers\obj\Debug\abstractClassesAndMembers.exe
+C:\Users\anosh\source\repos\abstractClassesAndMembers\abstractClassesAndMembers\obj\Debug\abstractClassesAndMembers.pdb

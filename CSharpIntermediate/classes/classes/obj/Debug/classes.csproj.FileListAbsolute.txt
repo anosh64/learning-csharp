@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\classes\classes\bin\Debug\classes.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\classes\classes\bin\Debug\classes.exe
+C:\Users\anosh\source\repos\csharpintermediate\classes\classes\bin\Debug\classes.pdb
+C:\Users\anosh\source\repos\csharpintermediate\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\classes\classes\obj\Debug\classes.exe
+C:\Users\anosh\source\repos\csharpintermediate\classes\classes\obj\Debug\classes.pdb

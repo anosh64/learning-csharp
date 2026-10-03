@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharp\\maximumofnumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07819020-A4B9-4181-8E2B-4D4218C24C7F}|maximumofnumbers\\maximumofnumbers.csproj|c:\\users\\anosh\\source\\repos\\csharp\\maximumofnumbers\\maximumofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07819020-A4B9-4181-8E2B-4D4218C24C7F}|maximumofnumbers\\maximumofnumbers.csproj|solutionrelative:maximumofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharp\\maximumofnumbers\\maximumofnumbers\\Program.cs",
+              "RelativeDocumentMoniker": "maximumofnumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharp\\maximumofnumbers\\maximumofnumbers\\Program.cs",
+              "RelativeToolTip": "maximumofnumbers\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:32:33.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

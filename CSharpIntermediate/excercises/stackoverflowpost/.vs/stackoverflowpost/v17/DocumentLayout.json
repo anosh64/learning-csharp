@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\excercises\\stackoverflowpost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47029C27-C433-4821-8273-62E0601EC21A}|stackoverflowpost\\stackoverflowpost.csproj|c:\\users\\anosh\\source\\repos\\csharpintermediate\\excercises\\stackoverflowpost\\stackoverflowpost\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47029C27-C433-4821-8273-62E0601EC21A}|stackoverflowpost\\stackoverflowpost.csproj|solutionrelative:stackoverflowpost\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47029C27-C433-4821-8273-62E0601EC21A}|stackoverflowpost\\stackoverflowpost.csproj|C:\\Users\\anosh\\source\\repos\\csharpintermediate\\excercises\\stackoverflowpost\\stackoverflowpost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47029C27-C433-4821-8273-62E0601EC21A}|stackoverflowpost\\stackoverflowpost.csproj|solutionrelative:stackoverflowpost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\excercises\\stackoverflowpost\\stackoverflowpost\\Post.cs",
+              "RelativeDocumentMoniker": "stackoverflowpost\\Post.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\excercises\\stackoverflowpost\\stackoverflowpost\\Post.cs",
+              "RelativeToolTip": "stackoverflowpost\\Post.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA4wDcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:30:12.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\excercises\\stackoverflowpost\\stackoverflowpost\\Program.cs",
+              "RelativeDocumentMoniker": "stackoverflowpost\\Program.cs",
+              "ToolTip": "C:\\Users\\anosh\\source\\repos\\csharpintermediate\\excercises\\stackoverflowpost\\stackoverflowpost\\Program.cs",
+              "RelativeToolTip": "stackoverflowpost\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:29:09.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

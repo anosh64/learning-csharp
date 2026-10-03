@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\fblikesthinging\fblikesthinging\obj\Debug\fblikesthinging.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\fblikesthinging\fblikesthinging\obj\Debug\fblikesthinging.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\fblikesthinging\fblikesthinging\bin\Debug\fblikesthinging.exe.config
+C:\Users\anosh\source\repos\csharp\fblikesthinging\fblikesthinging\bin\Debug\fblikesthinging.exe
+C:\Users\anosh\source\repos\csharp\fblikesthinging\fblikesthinging\bin\Debug\fblikesthinging.pdb
+C:\Users\anosh\source\repos\csharp\fblikesthinging\fblikesthinging\obj\Debug\fblikesthinging.exe
+C:\Users\anosh\source\repos\csharp\fblikesthinging\fblikesthinging\obj\Debug\fblikesthinging.pdb

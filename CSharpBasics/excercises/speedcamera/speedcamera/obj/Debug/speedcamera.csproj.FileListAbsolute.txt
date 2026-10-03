@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\speedcamera\speedcamera\obj\Debug\speedcamera.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\speedcamera\speedcamera\obj\Debug\speedcamera.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\speedcamera\speedcamera\bin\Debug\speedcamera.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\speedcamera\speedcamera\bin\Debug\speedcamera.exe
+C:\Users\anosh\source\repos\csharp\excercises\speedcamera\speedcamera\bin\Debug\speedcamera.pdb
+C:\Users\anosh\source\repos\csharp\excercises\speedcamera\speedcamera\obj\Debug\speedcamera.exe
+C:\Users\anosh\source\repos\csharp\excercises\speedcamera\speedcamera\obj\Debug\speedcamera.pdb

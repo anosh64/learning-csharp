@@ -1,0 +1,14 @@
+C:\Users\anosh\source\repos\numberofwordsinafile\numberofwordsinafile\bin\Debug\numberofwordsinafile.exe.config
+C:\Users\anosh\source\repos\numberofwordsinafile\numberofwordsinafile\bin\Debug\numberofwordsinafile.exe
+C:\Users\anosh\source\repos\numberofwordsinafile\numberofwordsinafile\bin\Debug\numberofwordsinafile.pdb
+C:\Users\anosh\source\repos\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.exe
+C:\Users\anosh\source\repos\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.pdb
+C:\Users\anosh\source\repos\csharp\excercises\numberofwordsinafile\numberofwordsinafile\bin\Debug\numberofwordsinafile.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\numberofwordsinafile\numberofwordsinafile\bin\Debug\numberofwordsinafile.exe
+C:\Users\anosh\source\repos\csharp\excercises\numberofwordsinafile\numberofwordsinafile\bin\Debug\numberofwordsinafile.pdb
+C:\Users\anosh\source\repos\csharp\excercises\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.exe
+C:\Users\anosh\source\repos\csharp\excercises\numberofwordsinafile\numberofwordsinafile\obj\Debug\numberofwordsinafile.pdb

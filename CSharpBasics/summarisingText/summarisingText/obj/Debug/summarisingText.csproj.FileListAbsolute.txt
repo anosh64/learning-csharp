@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\summarisingText\summarisingText\bin\Debug\summarisingText.exe.config
+C:\Users\anosh\source\repos\csharp\summarisingText\summarisingText\bin\Debug\summarisingText.exe
+C:\Users\anosh\source\repos\csharp\summarisingText\summarisingText\bin\Debug\summarisingText.pdb
+C:\Users\anosh\source\repos\csharp\summarisingText\summarisingText\obj\Debug\summarisingText.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\summarisingText\summarisingText\obj\Debug\summarisingText.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\summarisingText\summarisingText\obj\Debug\summarisingText.exe
+C:\Users\anosh\source\repos\csharp\summarisingText\summarisingText\obj\Debug\summarisingText.pdb

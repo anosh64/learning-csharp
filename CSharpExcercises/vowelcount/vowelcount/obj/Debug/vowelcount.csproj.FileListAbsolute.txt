@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\vowelcount\vowelcount\bin\Debug\vowelcount.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\vowelcount\vowelcount\bin\Debug\vowelcount.exe
+C:\Users\anosh\source\repos\csharp\excercises\vowelcount\vowelcount\bin\Debug\vowelcount.pdb
+C:\Users\anosh\source\repos\csharp\excercises\vowelcount\vowelcount\obj\Debug\vowelcount.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\vowelcount\vowelcount\obj\Debug\vowelcount.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\vowelcount\vowelcount\obj\Debug\vowelcount.exe
+C:\Users\anosh\source\repos\csharp\excercises\vowelcount\vowelcount\obj\Debug\vowelcount.pdb

@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\pascalcaseification\pascalcaseification\bin\Debug\pascalcaseification.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\pascalcaseification\pascalcaseification\bin\Debug\pascalcaseification.exe
+C:\Users\anosh\source\repos\csharp\excercises\pascalcaseification\pascalcaseification\bin\Debug\pascalcaseification.pdb
+C:\Users\anosh\source\repos\csharp\excercises\pascalcaseification\pascalcaseification\obj\Debug\pascalcaseification.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\pascalcaseification\pascalcaseification\obj\Debug\pascalcaseification.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\pascalcaseification\pascalcaseification\obj\Debug\pascalcaseification.exe
+C:\Users\anosh\source\repos\csharp\excercises\pascalcaseification\pascalcaseification\obj\Debug\pascalcaseification.pdb

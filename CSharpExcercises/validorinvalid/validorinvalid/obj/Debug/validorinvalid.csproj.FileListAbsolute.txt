@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\excercises\validorinvalid\validorinvalid\bin\Debug\validorinvalid.exe.config
+C:\Users\anosh\source\repos\csharp\excercises\validorinvalid\validorinvalid\bin\Debug\validorinvalid.exe
+C:\Users\anosh\source\repos\csharp\excercises\validorinvalid\validorinvalid\bin\Debug\validorinvalid.pdb
+C:\Users\anosh\source\repos\csharp\excercises\validorinvalid\validorinvalid\obj\Debug\validorinvalid.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\excercises\validorinvalid\validorinvalid\obj\Debug\validorinvalid.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\excercises\validorinvalid\validorinvalid\obj\Debug\validorinvalid.exe
+C:\Users\anosh\source\repos\csharp\excercises\validorinvalid\validorinvalid\obj\Debug\validorinvalid.pdb

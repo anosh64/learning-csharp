@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\constructors\constructors\bin\Debug\constructors.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\constructors\constructors\bin\Debug\constructors.exe
+C:\Users\anosh\source\repos\csharpintermediate\constructors\constructors\bin\Debug\constructors.pdb
+C:\Users\anosh\source\repos\csharpintermediate\constructors\constructors\obj\Debug\constructors.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\constructors\constructors\obj\Debug\constructors.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\constructors\constructors\obj\Debug\constructors.exe
+C:\Users\anosh\source\repos\csharpintermediate\constructors\constructors\obj\Debug\constructors.pdb

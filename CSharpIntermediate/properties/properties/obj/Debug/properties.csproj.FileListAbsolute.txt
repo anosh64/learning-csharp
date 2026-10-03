@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\properties\properties\bin\Debug\properties.exe.config
+C:\Users\anosh\source\repos\properties\properties\bin\Debug\properties.exe
+C:\Users\anosh\source\repos\properties\properties\bin\Debug\properties.pdb
+C:\Users\anosh\source\repos\properties\properties\obj\Debug\properties.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\properties\properties\obj\Debug\properties.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\properties\properties\obj\Debug\properties.exe
+C:\Users\anosh\source\repos\properties\properties\obj\Debug\properties.pdb

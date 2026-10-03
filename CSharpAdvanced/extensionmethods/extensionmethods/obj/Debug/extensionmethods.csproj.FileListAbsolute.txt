@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\extensionmethods\extensionmethods\obj\Debug\extensionmethods.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\extensionmethods\extensionmethods\obj\Debug\extensionmethods.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\extensionmethods\extensionmethods\bin\Debug\extensionmethods.exe.config
+C:\Users\anosh\source\repos\extensionmethods\extensionmethods\bin\Debug\extensionmethods.exe
+C:\Users\anosh\source\repos\extensionmethods\extensionmethods\bin\Debug\extensionmethods.pdb
+C:\Users\anosh\source\repos\extensionmethods\extensionmethods\obj\Debug\extensionmethods.exe
+C:\Users\anosh\source\repos\extensionmethods\extensionmethods\obj\Debug\extensionmethods.pdb

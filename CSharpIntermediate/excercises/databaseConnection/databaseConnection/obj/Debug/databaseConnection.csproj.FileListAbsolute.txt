@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharpintermediate\excercises\databaseConnection\databaseConnection\bin\Debug\databaseConnection.exe.config
+C:\Users\anosh\source\repos\csharpintermediate\excercises\databaseConnection\databaseConnection\bin\Debug\databaseConnection.exe
+C:\Users\anosh\source\repos\csharpintermediate\excercises\databaseConnection\databaseConnection\bin\Debug\databaseConnection.pdb
+C:\Users\anosh\source\repos\csharpintermediate\excercises\databaseConnection\databaseConnection\obj\Debug\databaseConnection.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharpintermediate\excercises\databaseConnection\databaseConnection\obj\Debug\databaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharpintermediate\excercises\databaseConnection\databaseConnection\obj\Debug\databaseConnection.exe
+C:\Users\anosh\source\repos\csharpintermediate\excercises\databaseConnection\databaseConnection\obj\Debug\databaseConnection.pdb

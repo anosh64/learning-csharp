@@ -1,0 +1,7 @@
+C:\Users\anosh\source\repos\csharp\maximumofnumbers\maximumofnumbers\bin\Debug\maximumofnumbers.exe.config
+C:\Users\anosh\source\repos\csharp\maximumofnumbers\maximumofnumbers\bin\Debug\maximumofnumbers.exe
+C:\Users\anosh\source\repos\csharp\maximumofnumbers\maximumofnumbers\bin\Debug\maximumofnumbers.pdb
+C:\Users\anosh\source\repos\csharp\maximumofnumbers\maximumofnumbers\obj\Debug\maximumofnumbers.csproj.AssemblyReference.cache
+C:\Users\anosh\source\repos\csharp\maximumofnumbers\maximumofnumbers\obj\Debug\maximumofnumbers.csproj.CoreCompileInputs.cache
+C:\Users\anosh\source\repos\csharp\maximumofnumbers\maximumofnumbers\obj\Debug\maximumofnumbers.exe
+C:\Users\anosh\source\repos\csharp\maximumofnumbers\maximumofnumbers\obj\Debug\maximumofnumbers.pdb
